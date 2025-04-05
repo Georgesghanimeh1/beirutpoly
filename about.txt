@@ -1,1 +1,22 @@
-This is a documentation about beyroutpoly
+# **BeirutPoly – A Monopoly-Inspired Game for Beirut**  
+
+**BeirutPoly** is a thrilling board game inspired by the classic Monopoly but reimagined with the vibrant culture, landmarks, and economy of Beirut. Players navigate the city's famous districts, invest in real estate, and strategize their way to success while overcoming real-life challenges unique to Lebanon.  
+
+## **Game Features**  
+
+- **Landmarks & Neighborhoods**  
+  Buy and trade iconic Beirut locations like **Downtown, Hamra, Gemmayze, Mar Mikhael, and Raouche**.  
+
+- **Currency & Economy**  
+  Face inflation, devaluation, and banking restrictions, making strategy key to winning.  
+
+- **Power & Influence**  
+  Invest in businesses, media outlets, and even political connections to shape the city’s future.  
+
+- **Lebanese Challenges**  
+  Experience random event cards like *power outages, roadblocks, protests, and economic crises* that shake up the game.  
+
+- **Luxury vs. Survival**  
+  Choose between building lavish rooftop restaurants or basic generators to survive the city's ups and downs.  
+
+Can you become Beirut’s ultimate tycoon, or will economic crises and political turmoil bring your empire crashing down?  
